@@ -4,4 +4,5 @@ Un vumetro basado en el microcontrolador de la linea Atmel Attiny85 con las tira
 
 Aca es circuito esquematico 
 
-![image](https://github.com/Asusblac/VumetroAttiny/assets/63509607/6d91162e-621e-495b-b875-d4615c8d2dd6)
+![image](https://github.com/Asusblac/VumetroAttiny/assets/63509607/85b73398-b738-4dee-982b-b5d48fb89ba5)
+
